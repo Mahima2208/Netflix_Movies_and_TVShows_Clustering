@@ -28,7 +28,7 @@ v.	There is an exponential raise in the number of TV shows and movies distribute
 
 •	Text cleaning and vectorization was done on the combined features of the dataset which includes origin country, leading cast member, rating type, content type and description for clustering analysis.
 
-•	Optimal number of clusters were found out to be 25 with silhouette coefficient value of 0.0279
+•	Optimal number of clusters were found out to be 5 with silhouette coefficient value of 0.36
 
 •	Principal component analysis was performed in order to reduce the higher dimensionality which improved the silhouette coefficient to 0.35. Even though there's improvement in the silhouette score, these cannot be compared as these are two different method of pre processing is involved.
 
