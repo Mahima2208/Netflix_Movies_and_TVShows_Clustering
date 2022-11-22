@@ -13,16 +13,27 @@ Netflix The firm was founded in 1999 and is now recognized as one of the largest
 -----------------------------------------------------
 # 📖Dataset features
 Show id: Unique ID for every Movie / TV Show
+
 type – Identifier - A Movie or TV Show
+
 title – Title of the Movie / TV Show
+
 director-director of the content
+
 cast –Actors involved in the movie / show
+
 country – Country where the movie / show was produced
+
 date_added – Date it was added on Netflix
+
 release_year – Actual Release year of the movie / show
+
 rating – TV Rating of the movie / show
+
 duration – Total Duration - in minutes or number of seasons
+
 listed_in – genre
+
 description – The Summary description
 
 -----------------------------------------------------
