@@ -1,4 +1,4 @@
-# Netflix Movies and TVShows Clustering
+# Netflix Movies and TV Shows Clustering
 ![start slide](https://www.theclick.gg/wp-content/uploads/2021/08/netflix-gaming-tests.jpg)
 
 # 📖PROBLEM STATEMENT
