@@ -33,19 +33,24 @@ v.	There is an exponential raise in the number of TV shows and movies distribute
 
 •	Recommendation based on cosine similarity is also done on the same transformed data.
 
-📋 Execution Instruction
+# 📋 Execution Instruction
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
-📜 Credits
-Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+# 📜 Credits
+Mahima Phalkey | Data Scientist | Machine Learning Engineer | Data Science enthusiast
 
 Special thanks to AlmaBetter
 
 Contact me for Data Science Project Collaborations
 
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/mahima-phalkey/) [![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/Mahima2208) [![image](https://user-images.githubusercontent.com/95841292/202914883-bce71634-6c2b-4305-8020-4b240cb76e41.png)](https://medium.com/@mahimaphalkey) ![image](https://drive.google.com/file/d/1Xi9oBrCjMc3QPGAhFdfO5rnMUssLa7Hw/view?usp=sharing)
 
-📚 References
+
+#📚 References
+
 https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
+
 https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
+
 https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
 
