@@ -1,4 +1,4 @@
-# Netflix_Movies_and_TVShows_Clustering
+# Netflix Movies and TVShows Clustering
 ![start slide](https://www.theclick.gg/wp-content/uploads/2021/08/netflix-gaming-tests.jpg)
 
 # PROBLEM STATEMENT
@@ -8,9 +8,8 @@ Netflix The firm was founded in 1999 and is now recognized as one of the largest
 
 # ALGORITHMS USED:
 1.	## KMEANS-SILHOUTTE SCORE, ELBOW METHOD
-2.	## DBSCAN
-3.	## HIERARCHICAL CLUSTERING-AGGLOMERATIVE
-4.	## PCA
+2.	## HIERARCHICAL CLUSTERING-AGGLOMERATIVE
+3.	## PCA
 
 # CONCLUSION:
 
@@ -34,4 +33,19 @@ v.	There is an exponential raise in the number of TV shows and movies distribute
 
 •	Recommendation based on cosine similarity is also done on the same transformed data.
 
+📋 Execution Instruction
+The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
+
+📜 Credits
+Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Special thanks to AlmaBetter
+
+Contact me for Data Science Project Collaborations
+
+
+📚 References
+https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
+https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
+https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
 
